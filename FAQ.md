@@ -6,7 +6,7 @@ Si tu veux faire par toi même, c'est en tant que membre. il te faut alors t'ins
 http://openfab.be/adhesion   
 
 #### #tarif
-https://github.com/openfab-lab/openfab/blob/master/pricceListFR.md
+https://github.com/openfab-lab/openfab/blob/master/priceListFR.md
 ## Les questions qu'on nous posent le plus souvent: 
 
 
